@@ -54,7 +54,8 @@ bash
 Copy code
 python "AI & ML course performance.py"
 
-#Output
+# Output
+
 Correlation heatmaps and performance visualizations
 
 Classification accuracy and reports
@@ -63,7 +64,8 @@ Regression evaluation metrics
 
 Predicted student performance outcomes
 
-#Purpose
+# Purpose
+
 This project is created for:
 
 AI & ML course submission
@@ -72,6 +74,6 @@ Internship projects
 
 Academic and practical learning
 
-Author
+# Author
 Aji Alan Femi
 
