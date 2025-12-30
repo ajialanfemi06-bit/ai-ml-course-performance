@@ -1,35 +1,78 @@
-# AI & ML Course Performance
+# Student Performance ML Project
 
 This project focuses on analyzing and predicting student performance using
 Artificial Intelligence and Machine Learning techniques with Python.
 
-## Project Description
+## Project Overview
 
-The project includes:
-- Data preprocessing
-- Handling missing values
-- Exploratory Data Analysis (EDA)
-- Machine learning models for prediction
+The goal of this project is to understand how factors such as attendance,
+Study hours, assignments, and project scores influence all students
+performance and certification outcomes.
 
-The goal is to analyze student performance patterns and predict performance
-outcomes based on academic and behavioral factors.
+The project includes data preprocessing, exploratory data analysis,
+classification models and regression models.
+
+## Files in This Repository
+
+1. **AI & ML student performance.py**  
+   - Main Python machine learning program  
+   - Generates student performance data  
+   - Performs EDA with heatmaps and visualizations  
+   - Applies classification and regression models  
+   - Predicts certificate type and final scores  
+
+2. **README.md**  
+   - Project documentation and instructions  
 
 ## Technologies Used
 
-- Python
-- pandas, numpy
-- matplotlib, seaborn
-- scikit-learn
+- Python  
+- pandas, numpy  
+- matplotlib, seaborn  
+- scikit-learn  
 
-## Files
+## Machine Learning Models
 
-- **AI & ML student performance.pt** – Main Python ML program
-- **README.md** – Project documentation
+### Classification
+- Logistic Regression  
+- Decision Tree Classifier  
+- Random Forest Classifier  
 
-## Purpose
+### Regression
+- Linear Regression  
+- Random Forest Regressor  
 
-This project is created for AI & ML coursework and academic practice.
+## How to Run the Project
 
-## Author
+1. Download or clone this repository  
+2. Install required libraries:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+Run the Python file:
+                           
+bash
+Copy code
+python "AI & ML course performance.py"
+Output
+Correlation heatmaps and performance visualizations
 
+Classification accuracy and reports
+
+Regression evaluation metrics
+
+Predicted student performance outcomes
+
+Purpose
+This project is created for:
+
+AI & ML course submission
+
+Internship projects
+
+Academic and practical learning
+
+Author
 Aji Alan Femi
+
+yaml
+Copy code
