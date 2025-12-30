@@ -74,5 +74,3 @@ Academic and practical learning
 Author
 Aji Alan Femi
 
-yaml
-Copy code
